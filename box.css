@@ -1,0 +1,132 @@
+body {
+  text-align: center;
+  color: white;
+}
+
+.text {
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: 1px;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-left: 105px;
+  margin-right: 105px;
+  margin-bottom: 30px;
+  height: 66px;
+  z-index: 5;
+  font-weight: 200;
+  line-height: 1.1;
+  font-size: 55px;
+}
+
+h5 {
+  margin-top: 0;
+  margin-bottom: 50px;
+  z-index: 5;
+  font-weight: 600;
+  opacity: 0.5;
+  font-size: 14px;
+  line-height: 1.1;
+}
+
+.grid {
+  height: 100%;
+  width: 100%;
+  z-index: 5;
+}
+
+.email {
+  padding-left: 20px;
+  text-align: center;
+  width: 106.13px;
+}
+
+.number {
+  padding-left: 20px;
+  text-align: center;
+  width: 147.98px;
+}
+
+.column {
+  box-sizing: border-box;
+  z-index: 5;
+}
+
+.welcome {
+  width: 100%;
+  height: 333px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.info-area {
+  height: 52px;
+  position: absolute;
+  right: 60px;
+  text-align: center;
+  top: 35px;
+  width: 254.109px;
+  z-index: 5;
+  color: white;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  line-height: 50px;
+}
+
+.buttonArea {
+  position: absolute;
+  box-sizing: border-box;
+  text-align: center;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 51px;
+  display: block;
+  top: 382px;
+  vertical-align: middle;
+  justify-content: center;
+}
+
+.button1 {
+  position: relative;
+  vertical-align: middle;
+  text-overflow: ellipsis;
+  background-origin: padding-box;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 50px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-right-width: 1px;
+  border-left-width: 1px;
+  background-color: #5170dd;
+  height: 25px;
+  width: 150px;
+  font-size: 18px;
+  z-index: 5;
+  right: 25px;
+}
+
+.centerB {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 20%;
+}
+
+.fold {
+  height: 100vh;
+  width: 100%;
+}

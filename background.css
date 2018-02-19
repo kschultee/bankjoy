@@ -1,0 +1,16 @@
+html {
+  background: url(https://www.bankjoy.com/assets/images/backgrounds/background.jpg) no-repeat center center fixed;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(61, 70, 100, 0.86);
+  z-index: 1;
+}
