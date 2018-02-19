@@ -1,0 +1,48 @@
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+.phones {
+  position: relative;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  display: block;
+  height: 600px;
+}
+
+.phone-center {
+  width: 330px;
+  height: 672.5px;
+  z-index: 5;
+  position: relative;
+  margin-top: 70px;
+}
+
+.phone-left {
+  width: 310px;
+  height: 631.734px;
+  z-index: 3;
+  position: relative;
+  top: 30px;
+  left: 100px;
+}
+
+.phone-right {
+  width: 310px;
+  height: 631.734px;
+  z-index: 3;
+  position: relative;
+  top: 30px;
+  right: 100px;
+}
+
+.logo {
+  z-index: 5;
+  position: relative;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  height: 232px;
+}
